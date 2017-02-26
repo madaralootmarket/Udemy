@@ -15,7 +15,7 @@ public class ConstructorDemo {
 		System.out.println(c2.gear);
 		System.out.println(c2.speed);
 		
-		Car c3 = new Car("M3",11.2);
+		
 	}
 	
 }

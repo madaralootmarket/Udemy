@@ -2,7 +2,7 @@ package Constructor;
 
 public class Car {
 	private String make;
-	 String model;
+	String model;
 	float speed;
 	int gear;
 	
@@ -24,9 +24,6 @@ public class Car {
 		this.gear = gear;
 	}
 	
-	public Car(String string, double d) {
-		// TODO Auto-generated constructor stub
-	}
 
 	public void setMake(String make){
 		this.make = make;
